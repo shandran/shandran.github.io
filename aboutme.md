@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: STEM teacher & citizen science enthusiast
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+- Degrees in microbiology (BS) and neuroscience (PhD)
+- STEM high school teacher for 10 years teaching Biology, Biotechnology, AP Biology, Physics, and AP Statistics
+- Adjunct university instructor since 2018 teaching Biology, Introductory Statistics, and Biostatistics
+- Data visualization nerd
+- Blog about education on LinkedIn
+- Analysis of neuroscience open data on Github
+- Scientific, nature, and landscape photography on Instagram
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
