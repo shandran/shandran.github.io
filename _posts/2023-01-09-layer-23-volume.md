@@ -5,7 +5,7 @@ subtitle: Electron microscopy reconstruction of mouse cortex
 cover-img: assets/img/layer23pyrneuron.png
 gh-repo: shandran/layer23-volume
 gh-badge: [star, fork, follow]
-tags: [electron microscopy, reconstruction, neuroglancer]
+tags: [electron microscopy, reconstruction, neuroglancer, iarpa microns]
 comments: true
 ---
 
