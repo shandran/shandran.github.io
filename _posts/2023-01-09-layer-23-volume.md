@@ -18,7 +18,7 @@ For an intriguing summary of this revolution, read Mitch Glickstein's [**essay**
 
 *Image credit: I created this serial LM reconstruction of a Golgi-stained mouse pyramidal neuron using a Zeiss Photomicroscope II at 40x oil and Smart Objects in Photoshop.*
 
-# A new revolution
+# A new revolution...
 
 Once again neuroscience is undergoing another revolution with the serial electron microscope brain reconstructions.
 
