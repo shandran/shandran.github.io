@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Layer 2/3 EM volume
+subtitle: Electron Microscope econstruction of mouse cortex
+gh-repo: shandran/layer23-volume
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [electron microscopy, reconstruction, neuroglancer]
 comments: true
 ---
 
