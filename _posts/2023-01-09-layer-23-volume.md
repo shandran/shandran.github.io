@@ -2,10 +2,10 @@
 layout: post
 title: Layer 2/3 EM volume
 subtitle: Electron Microscope reconstruction of mouse cortex
+cover-img: assets/img/layer23pyrneuron.png
 gh-repo: shandran/layer23-volume
 gh-badge: [star, fork, follow]
 tags: [electron microscopy, reconstruction, neuroglancer]
-cover-img: assets/img/layer23pyrneuron.png
 comments: true
 ---
 
