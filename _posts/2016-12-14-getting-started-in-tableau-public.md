@@ -8,8 +8,8 @@ tags: [open data, data visualization, badges, micro-credential, tutorial, class 
 comments: true
 ---
 
-# How to get started in data science
-Interested in getting into data visualization, business analytics, or data science but aren't sure where to start? A great starting point for beginners is Tableau Public, a free desktop app based on the popular and powerful Tableau Software analytics program.
+# Interested in...
+getting into data visualization, business analytics, or data science but aren't sure where to start? A great starting point for beginners is Tableau Public, a free desktop app based on the popular and powerful Tableau Software analytics program.
 
 Tableau is intuitive and easy-to-use, features a host of pre-made visualizations (graphs), and most of the functionality is accessible through drag-and-drop or double-click mouse actions. If you're willing to spend a few minutes watching some short tutorial videos, you can get up to speed in less than an hour and start creating powerful, interactive visualizations in a couple hours time (most of which is going to be outside of Tableau finding and curating datasets of interest). As you become more familiar and comfortable with the features (and if you're willing to spend some more time searching Tableau's extensive and helpful Knowledge Base resource), you can learn more advanced functionality, such as creating map visualizations, filtering on variables, and using functions to analyze or transform data.
 
