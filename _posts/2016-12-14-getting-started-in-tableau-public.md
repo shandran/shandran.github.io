@@ -17,8 +17,11 @@ Tableau is intuitive and easy-to-use, features a host of pre-made visualizations
 **Continue reading...** Read the rest of my article on my [LinkedIn](https://www.linkedin.com/pulse/getting-started-tableau-public-microcredential-badge-list-handran/).
 
 {: .box-note}
+**Getting public data into the classroom** Go to [SlideShare](https://www.slideshare.net/ShawnHandran/beginners-guide-to-getting-public-data-into-the-classroom) to see my workshop at the inaugural *Society for Science and the Public* Teacher conference in 2015.
+
+{: .box-note}
 **Tableau Public** Visit my [Tableau Public profile](https://public.tableau.com/app/profile/shawn.handran#!/) with additional data visualizations drawn from a variety of open data sources.  
 
-*Top image credit: I created this visualization in [Tableau Public](https://public.tableau.com/app/profile/shawn.handran/viz/CollegeScorecardSelectMeasures/CollegeScorecard) from the Department of Education College Scoreboard. 
+*Top image credit: I created this visualization in [Tableau Public](https://public.tableau.com/app/profile/shawn.handran/viz/CollegeScorecardSelectMeasures/CollegeScorecard) from the Department of Education College Scoreboard dataset. 
 
 ***
