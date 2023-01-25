@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Increasing student engagement and ownership with Badge List
+title: Increasing student engagement and ownership
 subtitle: Demonstrating Expertise in the Digital Age
 cover-img: assets/img/sem.jpg
 gh-badge: [star, fork, follow]
