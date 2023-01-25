@@ -15,7 +15,7 @@ One image that frequently comes to mind are merit badges in youth scout groups, 
 What if, instead of having a piece of paper buried someplace where no one can see it, you have an online place to display an accomplishment? Even better, what if you could post evidence demonstrating your proficiency in a particular skill? What if we could apply the principles of the merit badge to Secondary education, where students can be rewarded with something other than a letter grade, and more so, the work can be recognized and used advantageously in college and job applications? Enter the digital era with open badges and the digital portfolio.
 
 {: .box-note}
-**Continue reading...** Read the rest of my article on my [LinkedIn](https://www.linkedin.com/pulse/increasing-student-engagement-ownership-badge-list-shawn-handran/).
+**Continue reading...** Read the rest of my article on [LinkedIn](https://www.linkedin.com/pulse/increasing-student-engagement-ownership-badge-list-shawn-handran/).
 
 {: .box-note}
 **Getting a taste of my own medicine** Read my article where I did the same project that I assigned to my own students here on [LinkedIn](https://www.linkedin.com/pulse/getting-taste-my-own-medicine-i-am-doing-same-project-shawn-handran/)
