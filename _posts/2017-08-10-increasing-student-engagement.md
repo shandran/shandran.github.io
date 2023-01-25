@@ -26,6 +26,6 @@ What if, instead of having a piece of paper buried someplace where no one can se
 {: .box-note}
 **What I learned about LinkedIn in my AP Statistics project** Read the conclusions on my "Getting a taste of my own medicine" experiment here on [LinkedIn](https://www.linkedin.com/pulse/what-i-learned-linkedin-my-ap-statistics-class-project-shawn-handran/)
 
-*Top image credit: My daughter created this environmental Scanning Electron Microscopy image of rock salt and table salt while she was in my January Interim short-course on light and elecontn microscopy. 
+*Top image credit: My daughter created this environmental Scanning Electron Microscopy image of rock salt and table salt while she was in my January Interim short-course on light and electron microscopy.* 
 
 ***
