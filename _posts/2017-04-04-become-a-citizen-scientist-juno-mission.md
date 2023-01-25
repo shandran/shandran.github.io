@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Become a citizen scientist by processing images from the Juno mission to Jupiter
-subtitle: Photoshop tutorial
+title: Become a citizen scientist on the Juno mission to Jupiter
+subtitle: Photoshop tutorial processing images from JunoCam
 cover-img: assets/img/juno.png
 gh-badge: [star, fork, follow]
 tags: [citizen science, open data, tutorial, photoshop, Jupiter, JunoCam, Juno Mission]
