@@ -22,6 +22,6 @@ Tableau is intuitive and easy-to-use, features a host of pre-made visualizations
 {: .box-note}
 **Tableau Public** Visit my [Tableau Public profile](https://public.tableau.com/app/profile/shawn.handran#!/) with additional data visualizations drawn from a variety of open data sources.  
 
-*Top image credit: I created this visualization in [Tableau Public](https://public.tableau.com/app/profile/shawn.handran/viz/CollegeScorecardSelectMeasures/CollegeScorecard) from the Department of Education College Scoreboard dataset. 
+*Top image credit: I created this visualization in [Tableau Public](https://public.tableau.com/app/profile/shawn.handran/viz/CollegeScorecardSelectMeasures/CollegeScorecard) from the Department of Education College Scoreboard dataset.* 
 
 ***
