@@ -13,7 +13,7 @@ subtitle: Class activities in Neuroscience
 # Link to Serial EM Volumes
 
 ## Mouse Cortical Layer 2/3 (Allen Institute)
-### [bitly link](https://neuromancer-seung-import.appspot.com/?local_id=169044251442a10dad8dc472470264c9)
+### [https://bit.ly/layer23](https://neuromancer-seung-import.appspot.com/?local_id=169044251442a10dad8dc472470264c9)
 
 ---
 
