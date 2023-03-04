@@ -27,14 +27,14 @@ The following are some of the most common navigation tools you will frequently u
 ## Instructions
 Beginning with the Mouse cortical Layer 2/3 volume, spend some time getting comfortable with selecting and navigating neurons, processes, and glia in the volume. Find *good* examples of the following, and copy and paste **i. the screenshot and ii. Neuroglancer link** into the document you will submit for this activity. Be sure to include a brief description and which volume the image is obtained from.  
 
-Find the following in at least **two different** EM volumes:  
+Find the following in at least **two different** EM volumes (note that several of these will not be seen in the fly volumes):  
 - An excitatory neuron (contains spiny dendrites)
 - Zoom in on a spine and find a synapse; select the pre-synaptic process/neuron (note that there are many processes that do not have the soma in the volume); be sure the EM view you take clearly shows synaptic vesicles in the pre-synaptic process and the post-synaptic density in the post-synaptic cell 
 - A primary neuronal cilia (look on neurons with their full soma in the volume)
 - An inhibitory neuron (no spines on dendrites)
 - An astrocyte
 - A blood vessel
-- An interesting or unusual feature you found
+- An interesting or unusual feature you found (this is easier to find in the fly volumes since invertebrate cells are markedly different from mammalian cells)
 - Optional (more of a challenge): find a microglia, oligodendrocyte or OPC cell 
 
 ### Link to serial EM volumes
