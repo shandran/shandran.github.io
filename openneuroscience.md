@@ -21,11 +21,22 @@ The following are some of the most common navigation tools you will frequently u
 - l: recolor (changes all)
 - Ctrl-A: toggle crosshairs off and on
 - Single click on a layer rectangle (on top of window): toggle the view of that layer on or off
-- Right click on a layer rectangle: open up options box for that layer
+- Right click on a layer rectangle: open up options box for that layer (reduce opacity in 3D view as necessary to improve visualization of internal features)
 - Click on icons in upper right corner of a view to change between single window, split window, and quad window view
 
 ## Instructions
-abc  
+Beginning with the Mouse cortical Layer 2/3 volume, spend some time getting comfortable with selecting and navigating neurons, processes, and glia in the volume. Find *good* examples of the following, and copy and paste the images into the document you will submit for this activity. Be sure to include a brief description and which volume the image is obtained from.  
+
+Find the following in at least **two different** EM volumes:  
+- An excitatory neuron (contains spiny dendrites)
+- Zoom in on a spine and find a synapse; select the pre-synaptic process/neuron (note that there are many processes that do not have the soma in the volume); be sure the EM view you take clearly shows synaptic vesicles in the pre-synaptic process and the post-synaptic density in the post-synaptic cell 
+- A primary neuronal cilia (look on neurons with their full soma in the volume)
+- An inhibitory neuron (no spines on dendrites)
+- An astrocyte
+- A blood vessel
+- Optional (more of a challenge): find a microglia, oligodendrocyte or OPC cell 
+
+### Link to serial EM volumes
 
 **1. Mouse cortical Layer 2/3 volume (Microns Consortium): [bit.ly/layer23](https://neuromancer-seung-import.appspot.com/?local_id=169044251442a10dad8dc472470264c9)** 
 *Read more at the [Microns Layer 2/3 volume homepage](https://www.microns-explorer.org/phase1) or view some of my visualizations on my [Layer 2/3 respository on Github](https://github.com/shandran/layer23-volume)*
