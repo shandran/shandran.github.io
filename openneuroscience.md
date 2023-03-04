@@ -4,15 +4,15 @@ title: Open Neuroscience
 subtitle: Class activities in Neuroscience
 ---
 
-# Link to this page
+# Link to this page: [bit.ly/openneuroscience](https://shandran.github.io/openneuroscience/)
 ![Link to this page](assets/img/bit.ly_openneuroscience.png)
-# [https://bit.ly/openneuroscience](https://shandran.github.io/openneuroscience/)
+
 
 ---
 
 # Link to Serial EM Volumes
 
-## 1. Mouse Cortical Layer 2/3 volume (Microns Consortium): [https://bit.ly/layer23](https://neuromancer-seung-import.appspot.com/?local_id=169044251442a10dad8dc472470264c9)
+## 1. Mouse Cortical Layer 2/3 volume (Microns Consortium): [bit.ly/layer23](https://neuromancer-seung-import.appspot.com/?local_id=169044251442a10dad8dc472470264c9)
 
 ---
 
