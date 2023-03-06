@@ -26,13 +26,13 @@ The following are some of the most common navigation tools you will frequently u
 - Click on icons in upper right corner of a view to change between single window, split window, and quad window view
 
 ## Instructions
-Beginning with the Mouse cortical Layer 2/3 volume, spend some time getting comfortable with selecting and navigating neurons, processes, and glia in the volume. Find *good* examples of the following, and copy and paste **i. the screenshot and ii. Neuroglancer link** into the document you will submit for this activity. Be sure to include a brief description and which volume the image is obtained from.  
+Beginning with the Mouse cortical Layer 2/3 volume, spend some time getting comfortable with selecting and navigating neurons, processes, and glia in the volume. Find *good* examples of the list below, and copy and paste into the document you will submit for this activity: i. **a screenshot** (shift-cmd-4 on Mac and Print Screen on PC), and ii. **Neuroglancer link** (instructions for copying the Neuroglancer link are included below for each volume). Be sure to include a brief description and which volume the image is obtained from in your document.  
 
 Find the following in at least **two different** EM volumes (note that several of these will not be seen in the fly volumes):  
-- An excitatory neuron (contains spiny dendrites)
+- An excitatory neuron (contains spiny dendrites; fly neurons do not have spines)
 - Zoom in on a spine and find a synapse; select the pre-synaptic process/neuron (note that there are many processes that do not have the soma in the volume); be sure the EM view you take clearly shows synaptic vesicles in the pre-synaptic process and the post-synaptic density in the post-synaptic cell 
 - A primary neuronal cilia (look on neurons with their full soma in the volume)
-- An inhibitory neuron (no spines on dendrites)
+- An inhibitory neuron (generally do not have spines on dendrites)
 - An astrocyte
 - A blood vessel
 - An interesting or unusual feature you found (this is easier to find in the fly volumes since invertebrate cells are markedly different from mammalian cells)
