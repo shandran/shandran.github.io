@@ -18,6 +18,7 @@ The following are some of the most common navigation tools you will frequently u
 - Scroll wheel or pinch on mousepad: zoom in or out (first place the mouse cursor over the view you wish to zoom in and out of)
 - Ctrl = and Ctrl -: zoom in and zoom out (first single mouse click on the view you wish to zoom in and out of)
 - comma and period: change z plane down and up, respectively (only works when EM view is selected)
+- You can also change the x,y, and z locations manually in the upper left corner of the window
 - l (lower case l): recolor (changes all segment colors, it is not specific for one cell; see below)
 - Ctrl-A: toggle crosshairs off and on
 - Single click on a layer rectangle (on top of window): toggle the view of that layer on or off
@@ -35,7 +36,9 @@ Find the following in at least **two different** EM volumes (note that several o
 - An astrocyte
 - A blood vessel
 - An interesting or unusual feature you found (this is easier to find in the fly volumes since invertebrate cells are markedly different from mammalian cells)
-- Optional (more of a challenge): find a microglia, oligodendrocyte or OPC cell 
+- Optional (more of a challenge): find a microglia, oligodendrocyte or OPC cell
+
+Having trouble? See a [list of cell ids by cell subtype in the mouse cortex Layer 2/3 volume](https://github.com/shandran/layer23-volume/blob/main/list_of_cell_subtypes_in_layer23_volume.ipynb) to help you along. Also, try the gallery links below to help you find certain types of cells in the respective volumes.
 
 ### Link to serial EM volumes
 
