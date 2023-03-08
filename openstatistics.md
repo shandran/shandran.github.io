@@ -17,7 +17,7 @@ You are now ready to use and modify the notebook according to your teacher's ins
 # Matplotlib graphing tools
 
 {: .box-note}
-[Empirical rule and normal probability graphs](https://drive.google.com/file/d/1_LOWbI3BEQ9mpcVeGC92m9ItKdmmctNb/view?usp=sharing](https://colab.research.google.com/drive/1LyKvYzy0rwD1l5SNA-jRkBrtI2WXTGBV?usp=sharing)
+[Empirical rule and normal probability graphs](https://colab.research.google.com/drive/1LyKvYzy0rwD1l5SNA-jRkBrtI2WXTGBV?usp=sharing)
 
 ---
 
