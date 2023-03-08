@@ -14,14 +14,6 @@ These files can be opened and run in Google Colab. When clicking on a link below
 
 You are now ready to use and modify the notebook according to your teacher's instructions and any changes you make will be automatically saved to your copy in the *Colab Notebooks* folder of your Google Drive. 
 
-# Matplotlib graphing tools
-
-{: .box-note}
-[matplotlib dotplot](https://colab.research.google.com/drive/1ookiv8pqsS3uOKYsrZR7P9pCMbSkB2lt?usp=sharing)
-
-{: .box-note}
-[Empirical rule and normal probability graphs](https://colab.research.google.com/drive/1LyKvYzy0rwD1l5SNA-jRkBrtI2WXTGBV?usp=sharing)
-
 ---
 
 # Seaborn graphing tools
@@ -37,5 +29,15 @@ You are now ready to use and modify the notebook according to your teacher's ins
 
 {: .box-note}
 [Seaborn boxplot (boxplots)](https://colab.research.google.com/drive/1f1XD45gA0wYUsqysBefHpwiSQtYJ5HUe?usp=sharing)
+
+---
+
+# Matplotlib graphing tools
+
+{: .box-note}
+[matplotlib dotplot](https://colab.research.google.com/drive/1ookiv8pqsS3uOKYsrZR7P9pCMbSkB2lt?usp=sharing)
+
+{: .box-note}
+[Empirical rule and normal probability graphs](https://colab.research.google.com/drive/1LyKvYzy0rwD1l5SNA-jRkBrtI2WXTGBV?usp=sharing)
 
 ---
