@@ -24,6 +24,12 @@ You are now ready to use and modify the notebook according to your teacher's ins
 # Seaborn graphing tools
 
 {: .box-note}
+[Seaborn countplot (bar charts for categorical variables)](https://colab.research.google.com/drive/1COCDAWNied3nerrtST8hDgUNBahOfd5n?usp=sharing)
+
+{: .box-note}
+[Seaborn barplot (bar charts for quantitative summary statistics)](https://colab.research.google.com/drive/1mSnn4irRykeec9OHSy1pnEjZr8BCkrT_?usp=sharing)
+
+{: .box-note}
 [Seaborn histplot (histograms)](https://colab.research.google.com/drive/1Av2wAECPZtGYZCTQmRLVhjBKxpgmvgIZ?usp=sharing)
 
 {: .box-note}
