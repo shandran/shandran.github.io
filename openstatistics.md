@@ -10,12 +10,14 @@ subtitle: Class activities in statistical analysis
 ---
 
 # Matplotlib graphing tools
+
 {: .box-note}
 [Empirical rule and normal probability graphs](https://drive.google.com/file/d/1_LOWbI3BEQ9mpcVeGC92m9ItKdmmctNb/view?usp=sharing)
 
 ---
 
 # Seaborn graphing tools
+
 {: .box-note}
 [Seaborn histplot (histograms)](https://colab.research.google.com/drive/1Av2wAECPZtGYZCTQmRLVhjBKxpgmvgIZ?usp=sharing)
 {: .box-note}
