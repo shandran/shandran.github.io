@@ -21,7 +21,7 @@ author: Shawn Handran
 
 navbar-links:
   About Me: "aboutme"
-  # Open Statistics:
+  Open Statistics: "openstatistics"
   #  - Seaborn Colab notebooks
   #  - Matplotlib Colab notebooks
   Open Neuroscience: "openneuroscience"
