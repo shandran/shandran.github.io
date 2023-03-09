@@ -46,6 +46,9 @@ You are now ready to use and modify the notebook according to your teacher's ins
 {: .box-note}
 [Seaborn stripplot (stripplot)](https://colab.research.google.com/drive/1_80bG2AFh9WpMs5Dph4z1jtHxVZBIQO4?usp=sharing)
 
+{: .box-note}
+[Seaborn scatterplot (scatterplots)](https://colab.research.google.com/drive/1wUspA7uUWBWEegz-_H19YOX3XSzpQmny?usp=sharing)
+
 ---
 
 # Matplotlib graphing tools
