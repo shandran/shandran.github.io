@@ -35,7 +35,7 @@ You are now ready to use and modify the notebook according to your teacher's ins
 [Seaborn histplot (histograms)](https://colab.research.google.com/drive/1Av2wAECPZtGYZCTQmRLVhjBKxpgmvgIZ?usp=sharing)
 
 {: .box-note}
-[Seaborn displot (distribution plots](https://colab.research.google.com/drive/1VgKzlBMVffj17AFfxUuqjYj-mrhRX_4W?usp=sharing)
+[Seaborn displot (distribution plots)](https://colab.research.google.com/drive/1VgKzlBMVffj17AFfxUuqjYj-mrhRX_4W?usp=sharing)
 
 {: .box-note}
 [Seaborn boxplot (boxplots)](https://colab.research.google.com/drive/1f1XD45gA0wYUsqysBefHpwiSQtYJ5HUe?usp=sharing)
