@@ -58,6 +58,9 @@ You are now ready to use and modify the notebook according to your teacher's ins
 {: .box-note}
 [Seaborn residual plots (residplot)](https://colab.research.google.com/drive/1Es0uZ_fy7p-66f1qtIfeTx4_Y98jpU6H?usp=sharing)
 
+{: .box-note}
+[Seaborn pair plot (pairplot)](https://colab.research.google.com/drive/1JYbPGB0fdnMv7-2vmG0TzIKi5zpOC9P8?usp=sharing)
+
 ---
 
 # Matplotlib graphing tools
