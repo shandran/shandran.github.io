@@ -16,6 +16,13 @@ You are now ready to use and modify the notebook according to your teacher's ins
 
 ---
 
+# Stemgraphic tool
+
+{: .box-note}
+[Stemgraphic stem-and-leaf plot](https://colab.research.google.com/drive/1kMigJkSqb2nIeVyOh32g9dwni0h8Af36?usp=sharing)
+
+---
+
 # Seaborn graphing tools
 
 {: .box-note}
