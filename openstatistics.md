@@ -40,6 +40,9 @@ You are now ready to use and modify the notebook according to your teacher's ins
 {: .box-note}
 [Seaborn boxenplot (boxenplot)](https://colab.research.google.com/drive/1NocvdhcL011Q3UeWZkYoLZfGBLa0Yinf?usp=sharing)
 
+{: .box-note}
+[Seaborn stripplot (stripplot)](https://colab.research.google.com/drive/1_80bG2AFh9WpMs5Dph4z1jtHxVZBIQO4?usp=sharing)
+
 ---
 
 # Matplotlib graphing tools
