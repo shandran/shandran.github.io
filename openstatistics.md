@@ -55,6 +55,9 @@ You are now ready to use and modify the notebook according to your teacher's ins
 {: .box-note}
 [Seaborn linear model plots (lmplot)](https://colab.research.google.com/drive/1cKTa7yQRjn5eib5yVUzfw1P3O3qGE44k?usp=sharing)
 
+{: .box-note}
+[Seaborn residual plots (residplot)](https://colab.research.google.com/drive/1Es0uZ_fy7p-66f1qtIfeTx4_Y98jpU6H?usp=sharing)
+
 ---
 
 # Matplotlib graphing tools
