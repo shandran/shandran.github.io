@@ -49,6 +49,9 @@ You are now ready to use and modify the notebook according to your teacher's ins
 {: .box-note}
 [Seaborn scatterplot (scatterplots)](https://colab.research.google.com/drive/1wUspA7uUWBWEegz-_H19YOX3XSzpQmny?usp=sharing)
 
+{: .box-note}
+[Seaborn regression plot (regplot)](https://colab.research.google.com/drive/1biw6f-KxU88lY8sk4FKKP4xnMEy7z0Vp?usp=sharing)
+
 ---
 
 # Matplotlib graphing tools
