@@ -61,6 +61,9 @@ You are now ready to use and modify the notebook according to your teacher's ins
 {: .box-note}
 [Seaborn pair plot (pairplot)](https://colab.research.google.com/drive/1JYbPGB0fdnMv7-2vmG0TzIKi5zpOC9P8?usp=sharing)
 
+{: .box-note}
+[Seaborn joint plots (jointplot)](https://colab.research.google.com/drive/1MDol_hM3NayKT9SlgrweRsVxnsBka0ct?usp=sharing)
+
 ---
 
 # Matplotlib graphing tools
