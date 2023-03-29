@@ -68,7 +68,7 @@ Having trouble? See a [list of cell ids by cell subtype in the mouse cortex Laye
 
 ---
 
-# Lesson 2: Modeling Resting Membrane Potential and Action Potentials
+# Lesson 2: Modeling resting membrane potential and action potentials
 
 A simple, interactive [neuron model](https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html) is available from the University of Colorado Boulder PhET website.  
 
