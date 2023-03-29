@@ -68,9 +68,14 @@ Having trouble? See a [list of cell ids by cell subtype in the mouse cortex Laye
 
 ---
 
-# Lesson 2: Modeling Membrane and Action Potentials (PhET)
+# Lesson 2: Modeling Resting Membrane Potential and Action Potentials
 
-A simple, interactive [neuron model](https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html) is available from the University of Colorado Boulder PhET website. Follow the instructions and complete the activities in the handout that your teacher or professor provides.   
+A simple, interactive [neuron model](https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html) is available from the University of Colorado Boulder PhET website.  
+
+{: .box-note}
+PhET neuron simulation: https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html  
+
+Follow the instructions and complete the activities in the handout that your teacher or professor provides.  
 
 Some helpful tips for using the simulation:
 - Keep in mind that this simulator does not show negatively charged ions and focuses only on sodium and potassium ions and channels.
@@ -80,6 +85,7 @@ Some helpful tips for using the simulation:
 - Press the "Stimulate Neuron" button to initiate an action potential.
 - Press the pause, back and forward buttons to stop and step through single frames when you want to observe the rapid ion changes during the simulation.
 
+{: .box-note}
 Be sure to write your name on your paper before turning it in at the end of the lab activity.
 
 ---
