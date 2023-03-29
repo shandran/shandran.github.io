@@ -67,3 +67,20 @@ Having trouble? See a [list of cell ids by cell subtype in the mouse cortex Laye
 - To copy the Neuroglancer link, select the entire URL in the browser (use Ctrl-A to select all) and paste the link to your document.  
 
 ---
+
+# Lesson 2: Modeling Membrane and Action Potentials (PhET)
+
+A simple, interactive [neuron model](https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html) is available from the University of Colorado Boulder PhET website. Follow the instructions and complete the activities in the handout that your teacher or professor provides.   
+
+Some helpful tips for using the simulation:
+- Keep in mind that this simulator does not show negatively charged ions and focuses only on sodium and potassium ions and channels.
+- You may find it helpful to zoom in to the membrane using the + button in the upper left.
+- When first familiarizing yourself with the simulation control, you may find it helpful to use the "Fast Forward" setting, and then using the "Normal" and "Slow Motion" settings when trying to understand the dynamics of an action potential.
+- It is useful to always show charges and concentrations (click the checkbox for show "Charges" and "Concentrations"); click Show "Potential Chart" when you want to observe the membrane potential before, during, and after an action potential (otherwise keep it unchecked).
+- Press the "Stimulate Neuron" button to initiate an action potential.
+- Press the pause, back and forward buttons to stop and step through single frames when you want to observe the rapid ion changes during the simulation.
+
+Be sure to write your name on your paper before turning it in at the end of the lab activity.
+
+---
+
