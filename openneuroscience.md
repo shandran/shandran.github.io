@@ -73,7 +73,7 @@ Having trouble? See a [list of cell ids by cell subtype in the mouse cortex Laye
 A simple, interactive [neuron model](https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html) is available from the University of Colorado Boulder PhET website.  
 
 {: .box-note}
-PhET neuron simulation: https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html  
+**PhET neuron simulation:** [https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html](https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html)  
 
 Follow the instructions and complete the activities in the handout that your teacher or professor provides.  
 
