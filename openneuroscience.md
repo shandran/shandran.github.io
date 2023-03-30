@@ -117,6 +117,7 @@ How to save a simulation that you have created (in order to turn in for credit):
 Create the following reflex circuits:
 1. Patellar reflex circuit (hitting the patellar tendon with a reflex hammer)
 2. Crossed extension reflex (stepping on a thumbtack)
+3. On both of these circuits, use the annotation tool to label each neuron by name and type (sensory or motor), whether it is excitatory or inhibitory; for sensory neurons, include the type of receptor (e.g., pain, stretch, etc.) and for motor neurons, identify the target muscle by name
 
 {: .box-note}
 See a diagram of the patellar reflex and crossed extension reflex circuits here on [doctorlib](https://doctorlib.info/physiology/medical/87.html)  
