@@ -70,7 +70,7 @@ Having trouble? See a [list of cell ids by cell subtype in the mouse cortex Laye
 
 # Lesson 2: Modeling resting membrane potential and action potentials
 
-A simple, interactive [neuron model](https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html) is available from the University of Colorado Boulder PhET website.  
+A simple, PhET interactive [neuron model](https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html) is available from the University of Colorado Boulder PhET website.  
 
 {: .box-note}
 **PhET neuron simulation:** [https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html](https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html)  
@@ -90,3 +90,37 @@ Be sure to write your name on your paper before turning it in at the end of the 
 
 ---
 
+# Lesson 3: Neural network simulator
+
+An interactive neural network simulator [developed](https://www.eneuro.org/content/4/2/ENEURO.0022-17.2017) at the University of Oslo and hosted at the [Neuronify website](https://dragly.org/projects/neuronify/).  
+
+{: .box-note}
+**Neuonify:** [https://dragly.org/projects/neuronify/](https://dragly.org/projects/neuronify/)  
+
+Before starting, familiarize yourself with Neuronify:
+- If the simulation freezes and becomes unresponsive, hit the reload button on your browser (you will lose whatever you were working on).
+- Read through the 3 tutorials (click "Next tutorial" to go to the next one).
+- Under "New" in the upper left corner, go through each of the "Neuronify Items" (skip the "Visual input" one since we won't use that item).
+
+Look at the following pre-made neural networks:
+- Under New > Textbook Examples, look at Lateral Inhibition 1 and Summation examples.
+- Under New > Miscellaneous, look at Direction Selective Network, Feedback Inhibition, Reciprocal Inhibition, and Disinhibition
+
+How to create a new simulation (blank canvas):
+- Under New, select "New simulation"
+
+How to save a simulation that you have created (in order to turn in for credit):
+- Press the "Save as" button in the upper left
+- The Neuronify file will automatically download as simulation.nfy (you will need to rename this in your file manager)
+
+## Simulations you will create and submit to your instructor in your LMS (e.g., Canvas)
+Create the following reflex circuits:
+1. Patellar reflex circuit (hitting the patellar tendon with a reflex hammer)
+2. Crossed extension reflex (stepping on a thumbtack)
+
+See a diagram of the patellar reflex and crossed extension reflex circuits here on [doctorlib](https://doctorlib.info/physiology/medical/87.html)
+
+Once you have successfully built each circuit:
+- Take a screenshot of each circuit and submit them both as part of your assignment submission (e.g., on Canvas)
+- Save the Neuronify file with the following filename: patellar_reflex_yourname.nfy and extension_reflex_yourname.nfy
+- Submit the Neuronify files as part of the assignment submissions as well (e.g., on Canvas)
