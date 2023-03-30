@@ -122,5 +122,6 @@ See a diagram of the patellar reflex and crossed extension reflex circuits here 
 
 Once you have successfully built each circuit:
 - Take a screenshot of each circuit and submit them both as part of your assignment submission (e.g., on Canvas)
+- Be sure the screenshot clearly shows the Measurement diagram (e.g., voltmeter) and the voltmeter has traces that demonstrate the circuit is working properly (hint: hit the Pause button in the simulator in order to take a screen capture)
 - Save the Neuronify file with the following filename: patellar_reflex_yourname.nfy and extension_reflex_yourname.nfy
 - Submit the Neuronify files as part of the assignment submissions as well (e.g., on Canvas)
