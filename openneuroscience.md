@@ -113,15 +113,16 @@ How to save a simulation that you have created (in order to turn in for credit):
 - Press the "Save as" button in the upper left
 - The Neuronify file will automatically download as simulation.nfy (you will need to rename this in your file manager)
 
-## Simulations you will create and submit to your instructor in your LMS (e.g., Canvas)
+### Simulations you will create and submit to your instructor in your LMS (e.g., Canvas)
 Create the following reflex circuits:
 1. Patellar reflex circuit (hitting the patellar tendon with a reflex hammer)
 2. Crossed extension reflex (stepping on a thumbtack)
 
-See a diagram of the patellar reflex and crossed extension reflex circuits here on [doctorlib](https://doctorlib.info/physiology/medical/87.html)
+{: .box-note}
+See a diagram of the patellar reflex and crossed extension reflex circuits here on [doctorlib](https://doctorlib.info/physiology/medical/87.html)  
 
-Once you have successfully built each circuit:
-- Take a screenshot of each circuit and submit them both as part of your assignment submission (e.g., on Canvas)
-- Be sure the screenshot clearly shows the Measurement diagram (e.g., voltmeter) and the voltmeter has traces that demonstrate the circuit is working properly (hint: hit the Pause button in the simulator in order to take a screen capture)
-- Save the Neuronify file with the following filename: patellar_reflex_yourname.nfy and extension_reflex_yourname.nfy
+Once you have successfully built both circuits:
+- Take a screenshot of each circuit and submit the image files as part of your assignment submission (e.g., on Canvas)
+- Be sure the screenshot clearly shows the Measurement diagram (e.g., voltmeter) and the voltmeter has traces that demonstrate the circuit is working properly (hint: hit the Pause button in the simulator in order to freeze the traces so you can take a screen capture)
+- Save the Neuronify file with the following filename: patellar_reflex_*yourname*.nfy and extension_reflex_*yourname*.nfy
 - Submit the Neuronify files as part of the assignment submissions as well (e.g., on Canvas)
