@@ -9,7 +9,7 @@ subtitle: Class activities in Neuroscience
 
 ---
 
-# Lab 1: Cellular anatomy of the nervous system
+# Activity 1: Cellular anatomy of the nervous system
 Click on a link to one of the serial electron micrograph (EM) brain volumes below to enter the Neuroglancer visualizer. The left side of the window will show the EM view and the right side will show a 3D reconstruction of selected cell(s). The first volume below (Mouse cortical layer 2/3) is the easist to navigate and get used to the Neuroglancer interface. So, it is recommended that you begin there first, and then move on to additional volumes as you become more comfortable. Click on the "?" button in the upper right corner of the Neuroglancer window and review the keyboard and mouse shortcuts that will allow you to navigate through the volume.  
 
 The following are some of the most common navigation tools you will frequently use:
@@ -68,7 +68,7 @@ Having trouble? See a [list of cell ids by cell subtype in the mouse cortex Laye
 
 ---
 
-# Lab 2: Modeling resting membrane potential and action potentials
+# Activity 2: Modeling resting membrane potential and action potentials
 
 A simple, PhET interactive [neuron model](https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html) is available from the University of Colorado Boulder PhET website.  
 
@@ -90,7 +90,7 @@ Be sure to write your name on your paper before turning it in at the end of the 
 
 ---
 
-# Lab 3: Neural network simulator
+# Activity 3: Neural network simulator
 
 An interactive neural network simulator [developed](https://www.eneuro.org/content/4/2/ENEURO.0022-17.2017) at the University of Oslo and hosted at the [Neuronify website](https://dragly.org/projects/neuronify/).  
 
