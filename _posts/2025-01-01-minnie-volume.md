@@ -2,14 +2,14 @@
 layout: post
 title: Mouse Cubic Millimeter EM volume
 subtitle: Electron microscopy reconstruction of mouse visual cortex
-cover-img: assets/img/h01_mitochondria_fission_screenshot.png
+cover-img: assets/img/chand_864691135349628119_target_864691135616427625.png
 gh-repo: shandran/minnie-volume
 gh-badge: [star, fork, follow]
 tags: [electron microscopy, reconstruction, neuroglancer, iarpa microns, brain, cerebral cortex]
 comments: true
 ---
 
-# An elegant chandelier
+# An elegant chandelier...
 
 Chandelier cells are specialized inhibitory neurons in the cortex that make multiple synaptic contacts on the initial segment of the axon of nearby excitatory pyramidal neurons. Chandelier cells are so named for the resemblance of their extensive axon arborization to a chandelier.
 
